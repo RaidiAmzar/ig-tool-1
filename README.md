@@ -23,7 +23,7 @@
 	* pkg install git
 	* pkg install nodejs
 	* git clone https://github.com/user-rahim/ig-tool/
-	* cd tool-ig
+	* cd ig-tool
 	* unzip node_modules.zip
 	* node index.js
 <br/>
